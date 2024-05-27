@@ -12,6 +12,13 @@ The code systematically cleans and processes the FIFA 21 dataset by:
 - **Handling special cases**: Managing entries for players on loan or free agents.
 - **Cleaning ratings and other relevant columns**: Ensuring consistent and accurate data across all columns.
 
+  ## Tools Used
+
+- **Python**: Programming language used for data cleaning and analysis.
+- **NumPy**: Library for numerical computations in Python.
+- **Pandas**: Library for data manipulation and analysis in Python.
+- **Google Colab**: Cloud-based platform for running Python code and notebooks.
+
 ## Steps Involved
 
 1. **Data Understanding**:
